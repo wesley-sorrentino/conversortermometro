@@ -5,7 +5,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url(/img/termonetro.jpg);
+    background-image: url(./img/termonetro.jpg);
     background-size: cover;
 }
 
